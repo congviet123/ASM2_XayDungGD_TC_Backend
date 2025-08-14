@@ -45,3 +45,6 @@ const register = () => {
   }
 }
 </script>
+git add -A
+git commit -m "update full project"
+git push -f origin main
